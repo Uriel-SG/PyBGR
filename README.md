@@ -1,7 +1,7 @@
-# PyRBG - BG Remover
+# PyBGR - BG Remover
 ![pybgr](https://github.com/user-attachments/assets/acd1dfe7-b692-46c1-ad91-ad719eebcdda)
 
-**PyRBG** (Python Background Remover) is a lightweight, fast, and professional-grade background removal tool built entirely in Python. Designed with simplicity and efficiency in mind, PyRBG allows users to remove image backgrounds with just a few clicks — no complex setups, no unnecessary features, just results.
+**PyBGR** (Python Background Remover) is a lightweight, fast, and professional-grade background removal tool built entirely in Python. Designed with simplicity and efficiency in mind, PyRBG allows users to remove image backgrounds with just a few clicks — no complex setups, no unnecessary features, just results.
 
 
 ## 🚀 Features
@@ -31,10 +31,10 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Uriel-SG/PyRBG.git
-cd PyRBG
+git clone https://github.com/Uriel-SG/PyBGR.git
+cd PyBGR
 pip install -r requirements.txt
-python pyrbg.py
+python pybgr.py
 ```
 
 ## ⚙️ Using the Executable
@@ -55,7 +55,7 @@ If you prefer not to install Python or dependencies, you can use the pre-built e
 
 - ✅ PNG with transparent background 
 
-## 🎯 Why PyRBG?
+## 🎯 Why PyBGR?
 
 While many background removal tools exist online, most are either paid, slow, or require an internet connection. PyRBG works **locally**, ensuring privacy and speed — perfect for everyone who need full control over their assets.
 
