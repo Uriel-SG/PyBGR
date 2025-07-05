@@ -52,8 +52,6 @@ if os.path.exists(icon_path):
 # Logo App
 logo_path = os.path.join(BASE_PATH, "pybgr.png")
 
-# Logo App
-logo_path = "C:\\Users\\salva\\OneDrive\\Python\\pybgr.png" 
 if os.path.exists(logo_path):
     logo_img = Image.open(logo_path).resize((230, 130))
     logo_photo = ImageTk.PhotoImage(logo_img)
